@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Hz-Element"
-  text: "高仿Element-Plus组件库"
+  text: "高仿Element-Plus组件库!"
   tagline: My great project tagline
   actions:
     - theme: brand
