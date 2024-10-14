@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "pnpm -F @hz-ui/play dev",
     "docs:dev": "pnpm -F @hz-ui/docs dev",
-    "docs:build": "pnpm -F @hz-ui/docs build"
+    "docs:build": "pnpm -F @hz-ui/docs build",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
